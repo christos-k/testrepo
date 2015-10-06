@@ -1,3 +1,4 @@
 # testrepo
+==========
 
-Testing repository creation.
+Testing repository creation, branches, etc.

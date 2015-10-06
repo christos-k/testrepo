@@ -1,3 +1,3 @@
-# testrepo
+# Testing Repository
 
-Testing repository creation.
+Testing repository creation and basic git commands.

@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-	fprintf(stdout, "Hello, world!");
+	fprintf(stdout, "Hello, werld!");
 	return EXIT_SUCCESS;
 }
